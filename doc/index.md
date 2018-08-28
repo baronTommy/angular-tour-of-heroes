@@ -12,3 +12,12 @@ ng generate component heroes
 # src/app 直下に ファイルが作成される
 ng generate service hero
 ```
+
+```bash
+# モジュール (ルーティング)
+
+-- flat 
+app-routingを作らない
+
+ng generate module app-routing --flat --module=app
+```
