@@ -19,5 +19,7 @@ ng generate service hero
 -- flat 
 app-routingを作らない
 
+--module=app
+importに自動追加
 ng generate module app-routing --flat --module=app
 ```
