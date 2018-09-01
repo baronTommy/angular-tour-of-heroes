@@ -11,6 +11,8 @@ ng generate component heroes
 
 # src/app 直下に ファイルが作成される
 ng generate service hero
+
+ng generate service InMemoryData
 ```
 
 ```bash
@@ -23,3 +25,5 @@ app-routingを作らない
 importに自動追加
 ng generate module app-routing --flat --module=app
 ```
+
+

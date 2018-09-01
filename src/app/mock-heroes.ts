@@ -1,3 +1,5 @@
+// inMemory利用のため不要になる
+
 import {Hero} from './hero';
 
 export const HEROES: Hero[] = [
