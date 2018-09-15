@@ -26,4 +26,7 @@ importに自動追加
 ng generate module app-routing --flat --module=app
 ```
 
-
+```bash
+# directive
+ng generate directive forbiddenName
+```
